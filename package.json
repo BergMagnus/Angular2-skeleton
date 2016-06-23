@@ -1,0 +1,15 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "Skeleton for angular 2",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Skeleton",
+    "Angular"
+  ],
+  "author": "Magnus Berg",
+  "license": "ISC"
+}
